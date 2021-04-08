@@ -1,1 +1,1 @@
-# js-portfolio
+# Vanilla JS-portfolio
