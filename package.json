@@ -24,6 +24,7 @@
   },
   "homepage": "https://github.com/gndx/js-portfolio#readme",
   "devDependencies": {
+    "clean-webpack-plugin": "^3.0.0",
     "copy-webpack-plugin": "^8.1.0",
     "css-loader": "^5.2.0",
     "css-minimizer-webpack-plugin": "^1.3.0",
