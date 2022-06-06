@@ -1,1 +1,1 @@
-# Vanilla JS-Portfolio
+# Vanilla JS-Portfolio Generator
